@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClassMate</string>
+    <string name="nav_weekly">Week</string>
+    <string name="nav_daily">Today</string>
+    <string name="nav_lecturers">Lecturers</string>
+    <string name="nav_settings">Settings</string>
+</resources>
